@@ -11,7 +11,7 @@ import './App.css';
     render() {
       return(
         <div>
-          Curs 05
+          Curs 05 - React
         </div>
       )
     }
